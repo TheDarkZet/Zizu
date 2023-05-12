@@ -607,7 +607,7 @@ library Address {
      *
      * [IMPORTANT]
      * ====
-     * You shouldn't rely on `isContract` to protect against flash loan attacks!
+     * You shouldn't rely on `isContract` to protect against flash loan attacks! ok
      *
      * Preventing calls from contracts is highly discouraged. It breaks composability, breaks support for smart wallets
      * like Gnosis Safe, and does not provide security since it can be circumvented by calling from a contract
